@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MobileDoctor",
+    "slug": "MobileDoctor",
+    "android": {
+      "package": "com.anonymous.MobileDoctor"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.MobileDoctor"
+    }
+  }
+}
